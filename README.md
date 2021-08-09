@@ -31,14 +31,17 @@ The code is built as a switch and case, where each case is responsible for a dif
 
 **case 2:**
 > Calculate the current tree root (without input).
+> 
 > Output: The tree root in hexadedimal encoding.
 
 **case 3:**
 > Input: Leaf index (leaf indexes start from the leftmost leaf and have a value of 0).
+> 
 > Output: Proof of inclution of the leaf.
 
 **case 4**
 > Input: Leaf value and proof of inclution of the leaf.
+> 
 > Output: True if the proof is correct, otherwise False.
 
 **case 5**
@@ -46,26 +49,32 @@ The code is built as a switch and case, where each case is responsible for a dif
 
 **case 6**
 > Input: Private key.
+> 
 > Output: Signature of the tree root.
 
 **case 7**
 > Input: Public key, signature of tree root, tree root.
+> 
 > Output: True if the signature is correct, otherwise False.
 
 **case 8**
 > Input: Leaf index (leaf indexes start from the leftmost leaf and have a value of 0).
+> 
 > Convert the leaf value to 1.
 
 **case 9**
 > Calculate the current tree root (without input).
+> 
 > Output: The tree root in hexadedimal encoding.
 
 **case 10**
 > Input: Leaf index (leaf indexes start from the leftmost leaf and have a value of 0).
+> 
 > Output: Proof of inclution of the leaf.
 
 **case 11**
 > Input: Leaf index, Leaf value and proof of inclution of the leaf.
+> 
 > Output: True if the proof is correct, otherwise False.
 
 ## Installation
