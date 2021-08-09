@@ -10,7 +10,6 @@ Implementation of Merkle Tree that combines RSA encryption with a signature on t
 1. [General](#General)
     - [Background](#background)
     - [Running Instructions](https://github.com/tomershay100/Merkle-Tree/blob/main/README.md#running-instructions)
-2. [Dependencies](#dependencies)
 3. [Installation](#installation)
 
 ## General
