@@ -85,7 +85,7 @@ The code is built as a switch and case, where each case is responsible for a dif
 	```	
 3. Run the receiver client:
 	```
-	$ python3 main.py
+	$ python3 ex1.py
 	 ```
 4. You can now insert the switch and case inputs.
 
